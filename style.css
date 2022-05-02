@@ -1,0 +1,24 @@
+* { padding:0; margin:0; box-sizing: border-box; }
+html, body { height:100vh }
+body
+{
+  background-color: #003153;
+  border: 1px solid red;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#cv
+{
+  display: flex;
+  border: 1px solid green;
+}
+#dbug
+{
+  display: none;
+  padding:2px;
+  opacity: 0.3;
+  background-color: #003153;
+  color: snow;
+  position: absolute;
+}
