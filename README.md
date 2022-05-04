@@ -2,7 +2,8 @@
 
 A port from an old Flash MX Game i made in 2002 - Early-early beta version !
 
-+ Final Aim : Control spaceship by moving head on right/left side + eyes blinking to shoot [ actual control with mouse ]
++ Final Aim : 
+  + Control spaceship by moving head on right/left side + eyes blinking to shoot [ actual control with mouse ]
 + 2D Canvas. Every sprite is generate with a single square/brick over a json file.
 + NB : Sprites are made with a graphic web tool i built to draw/generate json matrix files.
 + Once destroyed, every elements : Monster, ship, tray, scores extra life [ whatever you want ] can explode.  
