@@ -13,6 +13,8 @@ A port from an old Flash MX Game i made in 2002 - Early-early beta version !
 + So, once destroyed, every elements : Monsters, ship, tray, scores extra life [ whatever you want in fact ] can explode.  
 + POO :
   + 'Sprites' are made of 'Fragments' [ Moving 'Dots' ] which are basicly...'Dots'
+  + Example :
+    + Invader inherit from Sprite, which are made of 'Fragments', which themselves inherits from 'Dot' 
 + [.oO° Very early beta Demo °Oo.](https://captainfurax.github.io/p5xjs-pxl-invadrs/)
 
 ![pxlinvadrs](https://github.com/CaptainFurax/p5xjs-pxl-invadrs/blob/main/CPT2205040933-1268x951.png)
