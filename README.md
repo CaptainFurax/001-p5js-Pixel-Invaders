@@ -14,7 +14,9 @@ A port from an old Flash MX Game i made in 2002 - Early-early beta version !
 + POO :
   + 'Sprites' are made of 'Fragments' [ Moving 'Dots' ] which are basicly...'Dots'
   + Example :
-    + Invader inherit from Sprite, which are made of 'Fragments', which themselves inherits from 'Dot' 
+    + An 'Invader' inherit from 'Sprite' Class, which are made of 'Fragments', which themselves inherits from 'Dot' 
+    + Same thing for the 'Ship', inherits from 'Sprite', made of 'Fragments', which inherits from 'Dot'
+    + In the 'Scene' Class, i store and manage 'Sprites' positions whereas in the 'Sprite', 'Dots' positions are managed relatively to their Scene Position...
 + [.oO° Very early beta Demo °Oo.](https://captainfurax.github.io/p5xjs-pxl-invadrs/)
 
 ![pxlinvadrs](https://github.com/CaptainFurax/p5xjs-pxl-invadrs/blob/main/CPT2205040933-1268x951.png)
