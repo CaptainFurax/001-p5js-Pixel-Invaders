@@ -6,7 +6,7 @@ A port from an old Flash MX Game i made in 2002 - Early-early beta version !
   + Control spaceship by moving head on right/left side + eyes blinking to shoot [ actual control with mouse ]
   + Using P5 Webcam functions to capture head moves + eyes blinking
 + 2D Canvas:
-  + Every sprite is generated on the fly over a json file containing pixel matrix and color palette wit ha single brick/square
+  + Every sprite is generated on the fly with a single brick/square, over a json file containing pixel matrix and color palette.
   + Once a sprite explode, it is removed and replaced by a 'pixel perfect' set of bricks corresponding to it and is so, able to explode.
   + When a sprite is hitted, we fastly show his color mask [ XOR bitwise Mask ]
   + NB : Sprites are made with a graphic web tool i built to draw/generate json matrix files.
