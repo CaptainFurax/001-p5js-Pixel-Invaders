@@ -4,7 +4,7 @@ A port from an old Flash MX Game i made in 2002 - Early-early beta version !
 
 ![pxlinvadrs](https://github.com/CaptainFurax/p5xjs-pxl-invadrs/blob/main/CPT2205040933-1268x951.png)
 
-+ [.oO° Very early beta Prototype °Oo.](https://captainfurax.github.io/p5xjs-pxl-invadrs/)
++ [.oO° Very early beta Prototype Demo °Oo.](https://captainfurax.github.io/p5xjs-pxl-invadrs/)
 + Final Aim : 
   + Control spaceship by moving head on right/left side + eyes blinking to shoot [ actual control with mouse ]
   + Using P5 Webcam functions to capture head moves + eyes blinking
