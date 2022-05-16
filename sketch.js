@@ -1,3 +1,4 @@
+p5.disableFriendlyErrors = true;
 // Main Objects
 let cv;
 let SpaceShip;
@@ -12,6 +13,7 @@ let blockSize = 6; let blockSpacing = 1.5;
 function preload() { SpritesFile = loadJSON("sprites.json"); }
 // Create a new canvas to the browser size
 function setup() {
+  pixelDensity(1);
   frameRate(50);
   angleMode(DEGREES);
   cursor(CROSS);
