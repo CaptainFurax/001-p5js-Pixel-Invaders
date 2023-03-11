@@ -6,8 +6,7 @@ A port from an old Flash MX Game i made in 2002 - Early-early beta version !
 
 + [.oO° Very early beta Prototype Demo °Oo.](https://captainfurax.github.io/p5xjs-pxl-invadrs/)
 + Final Aim : 
-  + Control spaceship by moving head on right/left side + eyes blinking to shoot [ actual control with mouse ]
-  + Using P5 Webcam functions to capture head moves + eyes blinking
+  + Control spaceship with mouse
 + 2D Canvas:
   + Every sprite is generated on the fly in an off-screen graphic buffer with a single brick/square, over a json file containing pixel matrix and color palette.
   + Once a sprite explode, it is removed and replaced by a 'pixel perfect' set of bricks corresponding to it and is so, able to explode.
