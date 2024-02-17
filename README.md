@@ -4,7 +4,7 @@ A port from an old Flash MX Game i made in 2002 - Early-early beta version !
 
 ![pxlinvadrs](https://github.com/CaptainFurax/p5xjs-pxl-invadrs/blob/main/CPT2205040933-1268x951.png)
 
-+ [.oO° Very early beta Prototype Demo °Oo.](https://github.com/CaptainFurax/001-p5js-Pixel-Invaders/)
++ [.oO° Very early beta Prototype Demo °Oo.](https://github.com/CaptainFurax/001-p5js-Pixel-Invaders/index.html)
 + Final Aim : 
   + Control spaceship with mouse
 + 2D Canvas:
